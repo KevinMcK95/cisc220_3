@@ -1,4 +1,5 @@
 #!/bin/bash
+#Developed in cisc220
 
 #Kevin McKinnon in the sole author of this work
 
